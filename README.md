@@ -7,7 +7,7 @@
 
 ## Link
 
-Le jeu peut-être éxectuter à l'url : https://seraphim24.github.io/Witch_construct/ [Play](https://seraphim24.github.io/Witch_construct/)
+Le jeu peut-être exécuter à l'url : https://seraphim24.github.io/Witch_construct/ [Play](https://seraphim24.github.io/Witch_construct/)
 
 ## Keybinds
 
