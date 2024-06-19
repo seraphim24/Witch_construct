@@ -1,0 +1,32 @@
+﻿{
+	"version": 1718808631,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/drone-sheet0.png",
+		"images/drone-sheet1.png",
+		"images/drone-sheet2.png",
+		"images/fireball-sheet0.png",
+		"images/fireball-sheet1.png",
+		"images/fireball-sheet2.png",
+		"images/fireball-sheet3.png",
+		"images/tiledbackground.png",
+		"images/dronespawnarea-sheet0.png",
+		"images/skillimage-sheet0.png",
+		"images/buttonstart-sheet0.png",
+		"media/fireball.ogg",
+		"media/bgsound.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"stylesheet.css",
+		"cyberphont_pixels-webfont.woff2",
+		"cyberphont_pixels-webfont.woff"
+	]
+}
